@@ -1,0 +1,21 @@
+{
+  "global_settings": {
+
+    "db_host": "31.204.150.78",
+    "db_port": 9042,
+    "db_username": "bd_cassandra",
+    "db_password": "Wifisky22",
+    "db_database": "telegram",
+
+    "elasticsearch_host": "31.204.150.7",
+    "elasticsearch_port": "7588",
+
+    "mq_host": "185.234.114.57",
+    "mq_port": 5672,
+    "mq_username": "temida",
+    "mq_password": "Eemi8cah",
+    "mq_users_queue": "PROD_bd_telegram_users",
+    "mq_channels_queue": "PROD_bd_telegram_channels",
+    "mq_messages_queue": "PROD_bd_telegram_messages"
+  }
+}
