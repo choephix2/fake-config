@@ -23,15 +23,14 @@
         "telegram_sleep_interval_from":1,
         "telegram_sleep_interval_to":9,
 
-
         "db_database":"telegram",
         "db_host":"31.204.155.155",
         "db_port":9042,
         "db_username":"cassandra",
-        "db_password":"wifisky10",      
+        "db_password":"wifisky10",
         "db_messages_table":"messages_by_channel",
         "db_channels_table":"channels",
-        "db_users_table":"users", 
+        "db_users_table":"users",
 
         "mq_host":"temida.xatonax.com",
         "mq_port":5672,
